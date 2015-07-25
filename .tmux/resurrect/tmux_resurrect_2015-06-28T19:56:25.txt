@@ -1,0 +1,22 @@
+pane	2	0	:bash	1	:*	0	:/Users/ckunert	1	bash	:
+pane	3	0	:bash	1	:*	0	:/Users/ckunert	1	bash	:
+pane	work	0	:ITOASTER	0	: 	0	:/Users/ckunert	0	bash	:
+pane	work	0	:ITOASTER	0	: 	1	:/Users/ckunert	1	bash	:
+pane	work	1	:TO-DO	0	: 	0	:/Users/ckunert	1	vim	:vim todo.txt
+pane	work	2	:NOTES	0	: 	0	:/Users/ckunert	1	vim	:vim NOTES/IDEAS.rst
+pane	work	3	:vim	0	: 	0	:/Users/ckunert/NOTES	1	vim	:vim name.txt
+pane	work	4	:TEST-IG	0	:-	0	:/Users/ckunert	1	bash	:
+pane	work	5	:OPENIG	1	:*	0	:/Users/ckunert/Documents/workspace/vagrant/mysql-vagrant	1	bash	:bash /usr/bin/vagrant ssh
+pane	work	5	:OPENIG	1	:*	1	:/Users/ckunert/Documents/workspace/vagrant/openig	0	bash	:
+pane	work	6	:IDM-CONNECT-DC	0	: 	0	:/Users/ckunert/Documents/workspace/vagrant/dc-test	0	bash	:
+pane	work	6	:IDM-CONNECT-DC	0	: 	1	:/	1	bash	:
+window	2	0	1	:*	5ce1,272x62,0,0,12
+window	3	0	1	:*	5ce2,272x62,0,0,13
+window	work	0	0	: 	e508,272x62,0,0[272x30,0,0,1,272x31,0,31,2]
+window	work	1	0	: 	b260,80x24,0,0,3
+window	work	2	0	: 	b261,80x24,0,0,4
+window	work	3	0	: 	b262,80x24,0,0,5
+window	work	4	0	:-	c103,181x45,0,0,6
+window	work	5	1	:*	7657,181x44,0,0{80x44,0,0,15,100x44,81,0,25}
+window	work	6	0	: 	d53c,181x45,0,0[181x31,0,0,10,181x13,0,32,11]
+state	work	work

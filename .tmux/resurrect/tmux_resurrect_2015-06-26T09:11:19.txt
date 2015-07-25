@@ -1,0 +1,19 @@
+pane	work	0	:ITOASTER	0	: 	0	:/Users/ckunert	1	bash	:
+pane	work	0	:ITOASTER	0	: 	1	:/Users/ckunert	0	bash	:
+pane	work	1	:TO-DO	0	: 	0	:/Users/ckunert	1	vim	:vim todo.txt
+pane	work	2	:NOTES	0	: 	0	:/Users/ckunert	1	vim	:vim NOTES/IDEAS.rst
+pane	work	3	:vim	0	: 	0	:/Users/ckunert/NOTES	1	vim	:vim name.txt
+pane	work	4	:TESTING	1	:*	0	:/Users/ckunert	1	bash	:
+pane	work	5	:OPENIG	0	: 	0	:/Users/ckunert/Documents/workspace/vagrant/openig-vagrant	0	bash	:
+pane	work	5	:OPENIG	0	: 	1	:/Users/ckunert/Documents/workspace/vagrant/openig-vagrant	0	less	:less bootstrap.sh
+pane	work	5	:OPENIG	0	: 	2	:/Users/ckunert	1	bash	:
+pane	work	6	:IDM-CONNECT-DC	0	:-	0	:/Users/ckunert/Documents/workspace/vagrant/dc-test	0	bash	:bash /usr/bin/vagrant ssh
+pane	work	6	:IDM-CONNECT-DC	0	:-	1	:	1	bash	:htop
+window	work	0	0	: 	9297,80x24,0,0[80x11,0,0,0,80x12,0,12,5]
+window	work	1	0	: 	b25f,80x24,0,0,2
+window	work	2	0	: 	b260,80x24,0,0,3
+window	work	3	0	: 	b261,80x24,0,0,4
+window	work	4	1	:*	5963,80x24,0,0,14
+window	work	5	0	: 	b5b7,80x24,0,0{39x24,0,0,9,40x24,40,0[40x11,40,0,15,40x12,40,12,16]}
+window	work	6	0	:-	dea3,80x24,0,0[80x21,0,0,17,80x2,0,22,19]
+state	work	
